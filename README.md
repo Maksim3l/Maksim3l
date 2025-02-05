@@ -58,4 +58,4 @@ I'm a college student currently in the middle of my second year at university, p
 <br />
 
 ## Learning Roadmaps
-[![roadmap.sh](https://roadmap.sh/card/tall/6786295c7dbe4fb0266b0ce1?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6786295c7dbe4fb0266b0ce1?variant=dark&roadmaps=cpp%2Cdatastructures-and-algorithms%2Ccomputer-science%2Candroid)](https://roadmap.sh)
