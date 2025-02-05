@@ -46,6 +46,9 @@ I'm a college student currently in the middle of my second year at university, p
 <img align="left" alt="Visual Studio" width="50px" style="padding-right:10px, padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="Visual Studio Code" width="50px" style="padding-right:10px, padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Clion" width="50px" style="padding-right:10px, padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
+<img align="left" alt="Godot" width="50px" style="padding-right:10px, padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+<img align="left" alt="Aseprite" width="50px" style="padding-right:10px, padding-top:10px;" src="https://raw.githubusercontent.com/dominickjohn/aseprite-big-sur-icon/main/AsepriteSurIcon.png" />
+
 
 
 <div style="clear: both;"></div>
